@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**HabteMel/HabteMel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my pc
 - 🌱 I’m currently learning Javascript
@@ -11,9 +7,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Web Development
 - 📫 How to reach me: Say Hi on Twitter
-- 😄 Pronouns:
-- ⚡ Fun fact: 
--->
+
 
 
 # 💻 Tech Stack:
